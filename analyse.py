@@ -56,7 +56,7 @@ data = fits.getdata(fn, ext=0)
 
 # Extract pscale
 header = fits.getheader(fn, ext=0)
-pscale = header[16]
+pscale = header[16] # This might be different for you
 print("\n" + tabulate([["Plate Scale", pscale]], tablefmt="plain") + "\n")
 
 # Get background data
