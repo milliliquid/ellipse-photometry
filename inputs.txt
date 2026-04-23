@@ -1,0 +1,10 @@
+Active=0
+FITS File Name=example
+Interval=10
+Zero Point=25
+Zero Point Error=0.02
+Ellipse Centre X-coordinate=500
+Ellipse Centre Y-coordinate=450
+Semi-major Axis=135
+Ellipticity=0.8
+Position Angle (Deg)=52
